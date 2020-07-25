@@ -71,6 +71,4 @@ $date = preg_match("/[0-9]{2}\/[0-9]{2}\/[0-9]{4}/", $texto,$data);
 
 $data_con = date("Y-m-d" , strtotime($data[0]));
 
-
-
-//http://localhost/www/Auxilio/teste.php?lista=93421664749
+?>
